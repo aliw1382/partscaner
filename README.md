@@ -1,0 +1,2 @@
+# partscaner
+Application Android PartScaner
